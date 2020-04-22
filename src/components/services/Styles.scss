@@ -1,0 +1,28 @@
+
+.servicesContainer {
+    height: 750px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+   
+
+    .servicesTitle {
+      text-align: center;
+      font-size: 32px;
+    
+    }
+
+    .servicesWrap {
+      color: rgb(27, 27, 27);
+      display: flex;
+      justify-content: center;
+      
+      .serviceItem {
+        text-align: center;
+        width: 300px;
+      }
+      
+
+    }
+
+}

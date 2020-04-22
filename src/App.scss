@@ -1,9 +1,11 @@
 body {
   margin: 0 50px;
-  background-color: coral;
+  background-color: whitesmoke;
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.5;
 }
 
-@media screen and (max-width: 992px) {
+/* @media screen and (max-width: 992px) {
   body {
     background-color: blue;
     margin: 0;
@@ -14,5 +16,5 @@ body {
   body {
     background-color: olive;
   }
-}
+} */
 

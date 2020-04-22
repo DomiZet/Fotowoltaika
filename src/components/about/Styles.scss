@@ -1,0 +1,24 @@
+
+.aboutContainer {
+  display: flex;
+  justify-content: center;
+
+
+  .aboutContent {
+    display: flex;
+    align-items: center;
+
+    .aboutText {
+      width: 550px;
+      margin-left: 50px;
+      text-align: justify;
+      font-size: 18px;
+      color: rgb(27, 27, 27);
+
+    }
+
+  }
+
+
+}
+
