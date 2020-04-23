@@ -1,0 +1,26 @@
+
+.footerContainer {
+  height: 460px;
+  background-color: darkblue;
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-image: url("../../assets/images/footer_bg.png");
+ 
+  .footerText {
+    width: 500px;
+    text-align: justify;
+  }
+  
+  .footerYork {
+    width: 200px;
+
+  }
+ 
+  .footerLondon {
+
+  }
+
+
+}
