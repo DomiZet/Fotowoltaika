@@ -8,7 +8,7 @@ import Comments from './components/comments/Comments';
 import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 import './App.scss';
-
+import "antd/dist/antd.css";
 
 function App() {
   return (

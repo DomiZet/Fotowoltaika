@@ -1,0 +1,52 @@
+
+.contactContainer {
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  height: 700px;
+  
+  h1 {
+    font-size: 36px;
+  }
+
+  p {
+    font-size: 14px;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.329);
+  }
+
+  .formWrap {
+    height: 500px;
+    width: 1000px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    }
+
+
+  .contactForm {
+    display: flex;
+    flex-direction: column;
+  }
+
+ 
+  img {
+    width: 440px;
+  }
+
+  Input {
+    width: 450px;
+    height: 40px;
+  }
+
+  TextArea {
+    width: 450px;
+  }
+
+  Button {
+    width: 200px;
+  }
+
+}
